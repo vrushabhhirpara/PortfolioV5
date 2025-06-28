@@ -1,5 +1,4 @@
 {
-  npm install --force
   "name": "portofolio-v5",
   "private": true,
   "version": "0.0.0",
@@ -61,5 +60,4 @@
     "tailwindcss": "^3.4.17",
     "vite": "^5.4.10"
   }
-  npm install --legacy-peer-deps
 }
