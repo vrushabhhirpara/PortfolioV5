@@ -6,5 +6,5 @@
   command = "npm run dev"
   port = 8888
 
-[[plugins]]
+[[onBuilt]]
   package = "@netlify/plugin-nextjs"
