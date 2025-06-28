@@ -14,6 +14,9 @@
   "react-event-listener": "^0.6.6",
   "react-swipeable-views": "^0.14.0"
   },
-    "dependencies": {
+  "dependencies": {
   "sharp": "^0.33.0"  // Use the version appropriate to your app
+  },
+  "scripts": {
+  "build": "vite build"  // or whatever tool you’re using
 }
